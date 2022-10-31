@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author a
+ *
+ */
+module Selenium {
+	requires selenium.api;
+}
